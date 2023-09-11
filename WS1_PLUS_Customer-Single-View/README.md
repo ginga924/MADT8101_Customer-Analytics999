@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Concept-33D4FF) ![Static Badge](https://img.shields.io/badge/Presentation-F28800) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8) ![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 # Customer Single View
 A comprehensive and unified representation of a customer's data and interactions across various touchpoints and systems within a business. It provides a consolidated and real-time snapshot of customer information, enabling better decision-making and personalized customer experiences.
 # Use Case : Bearhouse
