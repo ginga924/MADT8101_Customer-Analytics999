@@ -39,3 +39,6 @@ Bearhouse, a Thai milk tea brand owned by two renowned YouTubers that  I admire.
 - Customer Campaign Engagement Score
 - Customer Data Update Timestamp
 - etc.
+# Disclamer 🛡️
+- For educational and research purposes only
+- Bearhouse Forever 🧋 命が果てるそのときまで。
