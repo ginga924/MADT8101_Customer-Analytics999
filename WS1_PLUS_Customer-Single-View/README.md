@@ -8,7 +8,7 @@ Bearhouse, a Thai milk tea brand owned by two renowned YouTubers that  I admire.
 ### Remark ‼️
 - This canva provides practical advice for bubble tea chain stores on how to design a Customer Single View and choose the right data to collect.
 ![BearHouse](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/ec020543-7329-430e-b3aa-3664b6244ff0)
-### List of features that should be in Customer Single View:
+### List of features that should be in Customer Single View 🔍
 - Member ID
 - Fullname
 - Gender
