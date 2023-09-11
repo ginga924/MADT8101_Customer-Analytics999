@@ -18,6 +18,8 @@ Enhance bubble tea marketing campaigns with data-driven insights, tracking the p
 
 ### 🧋Bubble Tea Inventory Management:
 Efficiently manage bubble tea ingredient inventory by monitoring real-time sales data, predicting demand, and automating restocking to reduce costs and optimize popular menu items.
+# Contact ✉️
+If you have any inquiries or recommendations concerning this project, do not hesitate to reach out to me at https://www.linkedin.com/in/phaninthorn-swanyawatthaga-93467725a/
 
 
 
