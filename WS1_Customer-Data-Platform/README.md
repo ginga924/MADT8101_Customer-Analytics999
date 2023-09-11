@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Concept-33D4FF) ![Static Badge](https://img.shields.io/badge/Presentation-F28800) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8) ![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 # Customer Data Platform🔍
 The concept of this Customer Data Platform was inspired by a Thai bubble tea chain store whose two founders I admire. I have also developed use cases that recommend how businesses can use the platform.
 # Concept
