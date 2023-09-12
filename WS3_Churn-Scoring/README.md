@@ -1,11 +1,11 @@
-# Churn Scoring
+# Churn Scoring 😣
 A process of assigning a score to each customer based on their likelihood of churning (cancelling their subscription or service). This score can be used to identify customers who are at risk of churning and take steps to prevent them from leaving.
-# Dataset : Customertravel
+# Dataset 📚 : Customertravel 
 CLick here 👉 [Customertravel.csv](https://github.com/ginga924/MADT8101_Customer-Analytics999/files/12580554/Customertravel.1.csv)
 # Google Colab Notebook
 CLick here 👉 [Google Colab](https://colab.research.google.com/drive/1SI4ZPn9EWAEs1ZAkmw7tYwln7ANIosH3?usp=sharing)
 
-# Data Dictionary
+# Data Dictionary 📗
 - Age - This represents the age of an individual, typically in years, and is used as a demographic variable in the dataset.
 - FrequentFlyer - This binary variable indicates whether a person is a frequent flyer, providing information about their travel behavior.
 - AnnualIncomeClass - This categorical variable classifies individuals into income groups or classes, helping to analyze their economic status.
@@ -274,6 +274,7 @@ plt.tight_layout()
 plt.show()
 ```
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/e77bc972-7566-4956-bfbc-51a08cccb050)
-# 5) Summary
 
+# Contact ✉️
+If you have any inquiries or recommendations concerning this project, do not hesitate to reach out to me at https://www.linkedin.com/in/phaninthorn-swanyawatthaga-93467725a/
 
