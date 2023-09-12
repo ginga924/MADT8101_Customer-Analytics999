@@ -25,5 +25,3 @@ Welcome to my MADT8101 Customer-Analytics project, your cozy corner for customer
 🌱[WS5_Voice-of-Customer-Analytics(Thai)](https://github.com/ginga924/MADT8101_Customer-Analytics999/tree/e605e3357145ef66860369f077949ceb3d4c3d6a/WS5_Voice-of-Customer-Analytics%20(Thai))
 
 ![Static Badge](https://img.shields.io/badge/Python-EADF03) ![Static Badge](https://img.shields.io/badge/Natural_Language_Processing-088C38) ![Static Badge](https://img.shields.io/badge/Topic_Modeling-D3D3D3) ![Static Badge](https://img.shields.io/badge/LDA-D3D3D3) ![Static Badge](https://img.shields.io/badge/Google_Maps-0EDBEC) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8)
-
-🎬NLP Tutorial
