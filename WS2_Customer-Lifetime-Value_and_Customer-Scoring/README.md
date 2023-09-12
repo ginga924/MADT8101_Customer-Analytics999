@@ -13,7 +13,7 @@ Bearhouse, a Thai milk tea brand owned by two renowned YouTubers that  I admire.
 ![5](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/fb5bf70b-74d9-4ff2-8d21-40beabbd9264)
 ![6](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/4d05ff75-648d-4365-a77e-6fd69893588e)
 ![7](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/e7f304c0-70d1-4154-a602-a98bfdf9dd39)
-![8](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/c2cfba10-83ae-446d-8a67-caa6c45c6bce)
+![8](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/c9c2e03a-da05-4966-8827-2d34a04a319c)
 ![9](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/c08b9295-2b82-49d9-8706-69e5cc2f30c3)
 ![10](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/ada2fcb9-17cc-4f04-b0ea-85c4931b29c2)
 ![11](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/b4c45991-e425-4f21-857c-c254df7d9010)
