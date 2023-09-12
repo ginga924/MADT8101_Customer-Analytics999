@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Concept-33D4FF) ![Static Badge](https://img.shields.io/badge/Presentation-F28800) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8) ![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Concept-33D4FF) ![Static Badge](https://img.shields.io/badge/Canva-33D4FF) ![Static Badge](https://img.shields.io/badge/Presentation-F28800) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8)
 # Customer Lifetime Value 🌱
 the projected total revenue a business anticipates and expects to earn from a customer over their entire association, helping assess the long-term value and profitability of that customer to the company.
 # Use Case : Bearhouse 🧋
