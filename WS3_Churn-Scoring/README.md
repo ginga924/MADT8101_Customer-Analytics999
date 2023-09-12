@@ -6,7 +6,7 @@ CLick here 👉 [Customertravel.csv](https://github.com/ginga924/MADT8101_Custom
 ## Google Colab Notebook ![Static Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 CLick here 👉 [Google Colab](https://colab.research.google.com/drive/1SI4ZPn9EWAEs1ZAkmw7tYwln7ANIosH3?usp=sharing)
 
-# Let's roll
+# Let's roll ⛏️
 ### Data Dictionary 📗
 - Age - This represents the age of an individual, typically in years, and is used as a demographic variable in the dataset.
 - FrequentFlyer - This binary variable indicates whether a person is a frequent flyer, providing information about their travel behavior.
