@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Python-EADF03) ![Static Badge](https://img.shields.io/badge/Classification-EC910E) ![Static Badge](https://img.shields.io/badge/XGBoost-57CE05) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8)
+![Static Badge](https://img.shields.io/badge/Python-EADF03) ![Static Badge](https://img.shields.io/badge/Classification-EC910E) ![Static Badge](https://img.shields.io/badge/XGBoost-57CE05) ![Static Badge](https://img.shields.io/badge/Google_Colab-0EDBEC) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8)
 # Churn Scoring 😣
 A process of assigning a score to each customer based on their likelihood of churning (cancelling their subscription or service). This score can be used to identify customers who are at risk of churning and take steps to prevent them from leaving.
 # Dataset 📚 : Customertravel 
