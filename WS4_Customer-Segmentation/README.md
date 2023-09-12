@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Dataiku-2AB1AC) ![Static Badge](https://img.shields.io/badge/Customer_Segmentation-EC910E) ![Static Badge](https://img.shields.io/badge/Product_Recommendation-0715F2) 
 # This project is powered by Daitaiku https://www.dataiku.com/
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/00f5432b-5050-43ae-87d6-bcdecf96943e)
 # Disclamer 🛡️
