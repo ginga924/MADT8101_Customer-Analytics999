@@ -1,8 +1,9 @@
+![Static Badge](https://img.shields.io/badge/Python-EADF03) ![Static Badge](https://img.shields.io/badge/Classification-EC910E) ![Static Badge](https://img.shields.io/badge/XGBoost-57CE05) ![Static Badge](https://img.shields.io/badge/Novice-B60BB8)
 # Churn Scoring 😣
 A process of assigning a score to each customer based on their likelihood of churning (cancelling their subscription or service). This score can be used to identify customers who are at risk of churning and take steps to prevent them from leaving.
 # Dataset 📚 : Customertravel 
 CLick here 👉 [Customertravel.csv](https://github.com/ginga924/MADT8101_Customer-Analytics999/files/12580554/Customertravel.1.csv)
-# Google Colab Notebook
+# Google Colab Notebook ![Static Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 CLick here 👉 [Google Colab](https://colab.research.google.com/drive/1SI4ZPn9EWAEs1ZAkmw7tYwln7ANIosH3?usp=sharing)
 
 # Data Dictionary 📗
