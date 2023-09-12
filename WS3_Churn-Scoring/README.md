@@ -6,7 +6,8 @@ CLick here 👉 [Customertravel.csv](https://github.com/ginga924/MADT8101_Custom
 # Google Colab Notebook ![Static Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 CLick here 👉 [Google Colab](https://colab.research.google.com/drive/1SI4ZPn9EWAEs1ZAkmw7tYwln7ANIosH3?usp=sharing)
 
-# Data Dictionary 📗
+# Let's roll
+### Data Dictionary 📗
 - Age - This represents the age of an individual, typically in years, and is used as a demographic variable in the dataset.
 - FrequentFlyer - This binary variable indicates whether a person is a frequent flyer, providing information about their travel behavior.
 - AnnualIncomeClass - This categorical variable classifies individuals into income groups or classes, helping to analyze their economic status.
@@ -15,7 +16,7 @@ CLick here 👉 [Google Colab](https://colab.research.google.com/drive/1SI4ZPn9E
 - BookedHotelOrNot - This binary variable shows whether a person has booked a hotel (1 for yes, 0 for no), which is relevant for studying travel-related behavior.
 - Target - This variable is the target or dependent variable used in predictive modeling, representing the outcome or response that the analysis seeks to predict or explain.
 
-# 1) Import & Load Dataset
+## 1) Import & Load Dataset
 ### Import Libraries
 ```
 import numpy as np
@@ -29,7 +30,7 @@ sns.set()
 ```
 df = pd.read_csv("Customertravel.csv")
 ```
-# 2) Exploratory Data Analysis
+## 2) Exploratory Data Analysis
 ### Check info
 ```
 df.info
@@ -117,7 +118,7 @@ sns.heatmap(df_FrequentFlyer_by_target, annot=True, fmt='.0f')
 ```
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/2aaebe44-aa30-4111-bac7-88cd98389a42)
 
-# 3) Data Processing
+## 3) Data Processing
 ```
 cat_data = pd.DataFrame()
 
@@ -138,7 +139,7 @@ y = df['Target']
 print(df['Target'])
 ```
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/031a559b-a6e0-49c3-856f-8919d3e6ca83)
-# 4) Model Creation and Evaluation (XGBoost)
+## 4) Model Creation and Evaluation (XGBoost)
 ### Import XGBoost, model selection and evaluation
 ```
 import xgboost as xgb
@@ -186,7 +187,7 @@ print('* XGBoost Classifier * \n')
 fit_evaluate(modelXGB, X_train, X_test, y_train, y_test)
 ```
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/9f57c9c4-b1ec-49c1-9527-2faa8f01a1fe)
-# 5) Hyperparameter Tuning (XGBoost)
+## 5) Hyperparameter Tuning (XGBoost)
 ### Building pipeline for hyperparameter tuning
 ```
 from sklearn.pipeline import Pipeline
@@ -241,7 +242,7 @@ grid = GridSearchCV(
 xgb_model_clv_GS = grid.fit(X_train, y_train)
 ```
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/765ee325-ca5f-41eb-ad60-afe65fd2f631)
-### XGBoost equipped with Hyper parameter tuning
+## 6) XGBoost equipped with Hyper parameter tuning
 ```
 modelXGB = xgb.XGBClassifier(
  learning_rate =0.01,
