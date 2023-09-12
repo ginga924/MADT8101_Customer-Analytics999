@@ -10,10 +10,10 @@ In 1986, Mr. Peter Chia left his job to seek a better life for his family. With 
 ### What is Multi-level Marketing (MLM) or network marketing
 ![ginga9924_Multi-level_Marketing_94edd55e-7cb9-490a-8d29-c22034a1acf8](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/93410cfb-16d7-4e20-bdd7-18818ed97cdc)
 A business model where individuals promote and sell products or services while recruiting others into the network. Distributors earn commissions from their own sales and those made by their recruits. MLM has a hierarchical structure, emphasizes recruitment, and has faced controversy due to its recruitment-focused nature. It's important to research MLM companies carefully and be aware of potential risks before getting involved.
-# Presentation Material
+# Presentation Material 📚
 - Click here 👉 [HDI - Customer Analytics - MWIB.pdf](https://github.com/ginga924/MADT8101_Customer-Analytics999/files/12582220/HDI.-.Customer.Analytics.-.MWIB.1.pdf)
 
-# Content
+# Content📄
 ### Business Overview
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/a621ede5-529e-45d7-88e3-8c28936cedba)
 ### Current Situation
@@ -31,9 +31,9 @@ A business model where individuals promote and sell products or services while r
 ### Product Recommendation
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/0f9c37dd-9693-4341-bbc2-8370e29293d6)
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/e2fad03c-b267-4e57-b92d-9b8e9e574bb7)
-# Summary
 
-
+# Summary 🧲
+Conducting customer segmentation through the analysis of purchase history data, closely monitoring changes in customer segments, and providing personalized product recommendations for specific customer groups. This strategy has the potential to empower HDI in enhancing life opportunities in the Asian market.
 # Contact ✉️
 If you have any inquiries or recommendations concerning this project, do not hesitate to reach out to me at https://www.linkedin.com/in/phaninthorn-swanyawatthaga-93467725a/
 
