@@ -26,6 +26,21 @@ A business model where individuals promote and sell products or services while r
 - To analyze and identify recommended products for customers in different segments
 ### Customer Segementation
 ![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/d416b228-11bb-4e8c-9d0c-bffb754761e7)
+### Segment Movement
+![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/93b654f3-3be7-4d3b-a621-63dd602f1c2d)
+### Product Recommendation
+![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/0f9c37dd-9693-4341-bbc2-8370e29293d6)
+![image](https://github.com/ginga924/MADT8101_Customer-Analytics999/assets/136943349/e2fad03c-b267-4e57-b92d-9b8e9e574bb7)
+# Summary
+
+
+# Contact ✉️
+If you have any inquiries or recommendations concerning this project, do not hesitate to reach out to me at https://www.linkedin.com/in/phaninthorn-swanyawatthaga-93467725a/
+
+
+
+
+
 
 
 # Reference
